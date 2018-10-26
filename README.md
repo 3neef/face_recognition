@@ -1,2 +1,3 @@
-# face_recognition
-Facial recognition app build by python openCV it detects faces and memorize them 
+this is face detection and recognition program using opencv in python
+you will need to install opencv first 
+you ran face_detection.py 
